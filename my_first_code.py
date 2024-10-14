@@ -55,4 +55,5 @@ def equa(c, d):
 k = equa(12412, 1251265)
 print(k)
 
+print("i am the master of git commits")
 
