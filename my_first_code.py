@@ -47,3 +47,12 @@ a = 141
 b = 188274
 
 print(a*b) 
+
+def equa(c, d):
+    e = c * d
+    return e 
+
+k = equa(12412, 1251265)
+print(k)
+
+
